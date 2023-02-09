@@ -18,9 +18,9 @@ base url: https://github.com/akabab/starwars-api/
 | :-------- | :------- | :-------------------------------- |
 | `id/1.json`| `"name": "Luke Skywalker",` | **Required**. Id of item to fetch |
 
-#### const randomNumber = Math.ceil(Math.random() * 88)
+####  Math.ceil(Math.random() * 88)
 
-Takes two numbers and returns the sum.
+the id will randomly vary between id 1-88.
 
 
 ## Screenshots
