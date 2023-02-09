@@ -11,7 +11,7 @@ base url: https://github.com/akabab/starwars-api/
 #### Get all items
 
 ```http
-  GET rawcdn.githack.com/akabab/starwars-api/0.2.1/api/id/${randomNumber}.json}
+  GET  rawcdn.githack.com/akabab/starwars-api/0.2.1/api/id/${randomNumber}.json}
 ```
 
 | Parameter | Type     | Description                       |
