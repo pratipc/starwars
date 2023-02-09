@@ -24,6 +24,8 @@ Takes two numbers and returns the sum.
 
 
 ## Screenshots
+![Screenshot 2023-02-09 220911](https://user-images.githubusercontent.com/113278354/217929327-f25941b4-9a37-4d3b-b02f-a19b96c76063.jpg)
+![Screenshot 2023-02-09 220934](https://user-images.githubusercontent.com/113278354/217929339-b763e066-2ee2-47c0-95c1-fd1b27bd77e1.jpg)
 
-![](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![Screenshot 2023-02-09 221138](https://user-images.githubusercontent.com/113278354/217929344-90611ab6-a31f-43a5-bb29-73d99a00791f.jpg)
+![Screenshot 2023-02-09 221158](https://user-images.githubusercontent.com/113278354/217929350-f258df63-6fbd-4829-b499-3fff2c2d606c.jpg)
